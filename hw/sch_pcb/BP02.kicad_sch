@@ -9,37 +9,6 @@
   )
 
   (lib_symbols
-    (symbol "FMC2DIFF-rescue:DGND-RESCUE-FMC2DIFF-FMC2DIFF-rescue" (power) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-      (property "Reference" "#PWR" (id 0) (at 0 0 0)
-        (effects (font (size 1.016 1.016)) hide)
-      )
-      (property "Value" "DGND-RESCUE-FMC2DIFF-FMC2DIFF-rescue" (id 1) (at 0 -1.778 0)
-        (effects (font (size 1.016 1.016)))
-      )
-      (property "Footprint" "" (id 2) (at 0 0 0)
-        (effects (font (size 1.524 1.524)))
-      )
-      (property "Datasheet" "" (id 3) (at 0 0 0)
-        (effects (font (size 1.524 1.524)))
-      )
-      (symbol "DGND-RESCUE-FMC2DIFF-FMC2DIFF-rescue_0_1"
-        (polyline
-          (pts
-            (xy -1.27 0)
-            (xy 0 -1.27)
-            (xy 1.27 0)
-            (xy -1.27 0)
-          )
-          (stroke (width 0)) (fill (type none))
-        )
-      )
-      (symbol "DGND-RESCUE-FMC2DIFF-FMC2DIFF-rescue_1_1"
-        (pin power_in line (at 0 0 90) (length 0) hide
-          (name "DGND" (effects (font (size 1.016 1.016))))
-          (number "1" (effects (font (size 1.016 1.016))))
-        )
-      )
-    )
     (symbol "FMC2DIFF-rescue:SATA7-67491-1030-konektory" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -2.54 10.16 0)
         (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -2763,14 +2732,14 @@
     (pin "1" (uuid bbe7eb30-0525-47b6-94b2-77a45d0025b4))
   )
 
-  (symbol (lib_id "FMC2DIFF-rescue:DGND-RESCUE-FMC2DIFF-FMC2DIFF-rescue") (at 41.91 109.22 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 41.91 109.22 0) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid 9bbc3005-c2a8-420a-b344-0af24258d8bf)
-    (property "Reference" "#PWR01" (id 0) (at 41.91 109.22 0)
-      (effects (font (size 1.016 1.016)) hide)
+    (uuid 03693939-65d1-410f-ab23-df1b1e5142a5)
+    (property "Reference" "#PWR?" (id 0) (at 41.91 115.57 0)
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Value" "DGND" (id 1) (at 41.91 110.998 0)
-      (effects (font (size 1.016 1.016)))
+    (property "Value" "GND" (id 1) (at 41.91 113.03 0)
+      (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "" (id 2) (at 41.91 109.22 0)
       (effects (font (size 1.524 1.524)))
@@ -2778,17 +2747,17 @@
     (property "Datasheet" "" (id 3) (at 41.91 109.22 0)
       (effects (font (size 1.524 1.524)))
     )
-    (pin "1" (uuid 41c8eece-d2b2-437b-bb15-ccdd1fd88807))
+    (pin "1" (uuid 00b19837-ee7f-4bda-ae54-49dbb4c4f8c4))
   )
 
-  (symbol (lib_id "FMC2DIFF-rescue:DGND-RESCUE-FMC2DIFF-FMC2DIFF-rescue") (at 243.84 111.125 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 243.84 111.125 0) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid 116746d2-9d1c-4a0a-8a05-9cd8f8a67ed8)
-    (property "Reference" "#PWR02" (id 0) (at 243.84 111.125 0)
-      (effects (font (size 1.016 1.016)) hide)
+    (uuid 043bacde-e297-427a-b45a-64a2dfb010c3)
+    (property "Reference" "#PWR?" (id 0) (at 243.84 117.475 0)
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Value" "DGND" (id 1) (at 243.84 112.903 0)
-      (effects (font (size 1.016 1.016)))
+    (property "Value" "GND" (id 1) (at 243.84 114.935 0)
+      (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "" (id 2) (at 243.84 111.125 0)
       (effects (font (size 1.524 1.524)))
@@ -2796,7 +2765,7 @@
     (property "Datasheet" "" (id 3) (at 243.84 111.125 0)
       (effects (font (size 1.524 1.524)))
     )
-    (pin "1" (uuid a258d7b4-40b2-46fa-afb0-4888ce5cf0b5))
+    (pin "1" (uuid 17e90824-90ef-4ad4-8af9-642d97a317ae))
   )
 
   (symbol (lib_id "power:GND") (at 273.685 22.86 0) (unit 1)
@@ -3539,14 +3508,14 @@
   )
 
   (symbol_instances
-    (path "/9bbc3005-c2a8-420a-b344-0af24258d8bf"
-      (reference "#PWR01") (unit 1) (value "DGND") (footprint "")
-    )
-    (path "/116746d2-9d1c-4a0a-8a05-9cd8f8a67ed8"
-      (reference "#PWR02") (unit 1) (value "DGND") (footprint "")
-    )
     (path "/d9511fc1-f00d-4bac-8ef3-dfb118b5fe30"
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/03693939-65d1-410f-ab23-df1b1e5142a5"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/043bacde-e297-427a-b45a-64a2dfb010c3"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005cf094e9"
       (reference "C1") (unit 1) (value "100pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
