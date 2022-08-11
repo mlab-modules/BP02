@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/BP02A.kicad_sch</source>
-    <date>Wed Apr  6 12:52:18 2022</date>
+    <date>Thu Aug 11 09:52:05 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -387,11 +387,11 @@
       <value>4.7nH</value>
       <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">5fa100d812875025b39779cf</field>
+        <field name="UST_ID">60d330e0128750016518ca90</field>
       </fields>
       <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
       <property name="MFPN" value=""/>
-      <property name="UST_ID" value="5fa100d812875025b39779cf"/>
+      <property name="UST_ID" value="60d330e0128750016518ca90"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BP02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
