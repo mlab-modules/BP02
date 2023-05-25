@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/BP02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/BP02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/BP02
+summary: Symmetrical RF filter module with SATA connector input/output
