@@ -8,18 +8,18 @@ homepage: false
 image: doc/src/img/single_filter_measurement.jpg
 images:
 - doc/src/img/BP02A_inductors_onto_capacitors.jpg
-- doc/src/img/Series_connection_measurement_setup.jpg
 - doc/src/img/single_filter_measurement.jpg
-- doc/gen/img/BP02A-top.png
+- doc/src/img/Series_connection_measurement_setup.jpg
 - doc/gen/img/BP02A-bottom.png
+- doc/gen/img/BP02A-top.png
 - doc/src/img/2_stage_comparison.png
-- doc/src/img/3_stage_side.png
-- doc/src/img/3_stage_onto.png
 - doc/src/img/serial_3and2_stages.png
+- doc/src/img/3_stage_onto.png
 - doc/src/img/3_stage_406-410MHz.png
-- doc/src/img/2_stage_406-410MHz.png
 - doc/src/img/2_stage_onto.png
 - doc/src/img/3_stage_comparison.png
+- doc/src/img/3_stage_side.png
+- doc/src/img/2_stage_406-410MHz.png
 - doc/src/img/2_stage_side.png
 - doc/gen/BP02A-schematic.svg
 issues: 0
