@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>G:\MLAB_G\Moduly_zvlast\BP02\hw\sch_pcb\BP02A.kicad_sch</source>
+    <date>08.06.2021 6:42:01</date>
+    <tool>Eeschema (5.99.0-10394-g2e15de97e0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Universal symmetric RF filter </title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BP02A.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf094e9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf094f6</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d319877</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d319f0c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b33</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b33"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf09531</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>33pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b37</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b37"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d318b67</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b33</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b33"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf094fc</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>39pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5dad549f128750448eca1926</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5dad549f128750448eca1926"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d319178</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b33</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b33"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf09515</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf09833</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf09839</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf09502</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8659bea4-e910-4440-8077-d414946f93e2</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SATA7-67491-1030</value>
+      <footprint>Mlab_CON:SATA-7_THT_VERT_2</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a7b</field>
+      </fields>
+      <libsource lib="FMC2DIFF-rescue" part="SATA7-67491-1030-konektory" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a7b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>257817ba-0181-450f-b9ed-4b60c4894377</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SATA7-67491-1030</value>
+      <footprint>Mlab_CON:SATA-7_THT_VERT_2</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a7b</field>
+      </fields>
+      <libsource lib="FMC2DIFF-rescue" part="SATA7-67491-1030-konektory" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a7b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03fed3f1-39a4-4f3d-8587-2406e87dc752</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>27nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-12</field>
+        <field name="UST_ID">5c70984412875079b91f8807</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-12"/>
+      <property name="UST_ID" value="5c70984412875079b91f8807"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf097f0</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>27nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-12</field>
+        <field name="UST_ID">5c70984412875079b91f8807</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-12"/>
+      <property name="UST_ID" value="5c70984412875079b91f8807"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf097f8</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>22nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">0805AS-027J-08</field>
+        <field name="UST_ID">60be80ed1287500165e6c3bb</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="0805AS-027J-08"/>
+      <property name="UST_ID" value="60be80ed1287500165e6c3bb"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a20bc519-649a-43f3-8b4b-3fe410d13d16</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>22nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">0805AS-027J-08</field>
+        <field name="UST_ID">60be80ed1287500165e6c3bb</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="0805AS-027J-08"/>
+      <property name="UST_ID" value="60be80ed1287500165e6c3bb"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3bc94a3-ece4-4f14-9ed1-81761a651a3a</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>10nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-10</field>
+        <field name="UST_ID">60be72061287500165e6c35e</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-10"/>
+      <property name="UST_ID" value="60be72061287500165e6c35e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf09538</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>5.6nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8803</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f8803"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d31848b</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>82nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-82</field>
+        <field name="UST_ID">60be7e351287500165e6c39b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-82"/>
+      <property name="UST_ID" value="60be7e351287500165e6c39b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f57070e4-dbd7-483f-a1a6-e0709c6f2f83</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>82nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-82</field>
+        <field name="UST_ID">60be7e351287500165e6c39b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-82"/>
+      <property name="UST_ID" value="60be7e351287500165e6c39b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f347b272-df40-4e6b-87e4-18eb7179220f</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>39nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN"> CW0805-39</field>
+        <field name="UST_ID">5c70984412875079b91f8809</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value=" CW0805-39"/>
+      <property name="UST_ID" value="5c70984412875079b91f8809"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e560087-3bde-4623-b836-52049aa70f5a</tstamps>
+    </comp>
+    <comp ref="L10">
+      <value>39nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN"> CW0805-39</field>
+        <field name="UST_ID">5c70984412875079b91f8809</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value=" CW0805-39"/>
+      <property name="UST_ID" value="5c70984412875079b91f8809"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30c4146a-1f80-410a-b915-9f0bacc2dc8d</tstamps>
+    </comp>
+    <comp ref="L11">
+      <value>10nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-10</field>
+        <field name="UST_ID">60be72061287500165e6c35e</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-10"/>
+      <property name="UST_ID" value="60be72061287500165e6c35e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf094f0</tstamps>
+    </comp>
+    <comp ref="L12">
+      <value>4.7nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5fa100d812875025b39779cf</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value=""/>
+      <property name="UST_ID" value="5fa100d812875025b39779cf"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d317c72</tstamps>
+    </comp>
+    <comp ref="L13">
+      <value>82nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-82</field>
+        <field name="UST_ID">60be7e351287500165e6c39b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-82"/>
+      <property name="UST_ID" value="60be7e351287500165e6c39b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eaa7f6ad-066e-4493-8d08-8e94b54020c5</tstamps>
+    </comp>
+    <comp ref="L14">
+      <value>82nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-82</field>
+        <field name="UST_ID">60be7e351287500165e6c39b</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-82"/>
+      <property name="UST_ID" value="60be7e351287500165e6c39b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4967dffd-c852-4a0b-9fa1-e4b3d687b896</tstamps>
+    </comp>
+    <comp ref="L15">
+      <value>18nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-18</field>
+        <field name="UST_ID">5c70984412875079b91f8806</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-18"/>
+      <property name="UST_ID" value="5c70984412875079b91f8806"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b676332-255f-4709-a128-087438df37dc</tstamps>
+    </comp>
+    <comp ref="L16">
+      <value>18nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-18</field>
+        <field name="UST_ID">5c70984412875079b91f8806</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-18"/>
+      <property name="UST_ID" value="5c70984412875079b91f8806"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5842de0-c92b-42c4-8242-6f761b5564ad</tstamps>
+    </comp>
+    <comp ref="L17">
+      <value>10nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-10</field>
+        <field name="UST_ID">60be72061287500165e6c35e</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-10"/>
+      <property name="UST_ID" value="60be72061287500165e6c35e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf0950f</tstamps>
+    </comp>
+    <comp ref="L18">
+      <value>27nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-12</field>
+        <field name="UST_ID">5c70984412875079b91f8807</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-12"/>
+      <property name="UST_ID" value="5c70984412875079b91f8807"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf09800</tstamps>
+    </comp>
+    <comp ref="L19">
+      <value>27nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="MFPN">CW0805-12</field>
+        <field name="UST_ID">5c70984412875079b91f8807</field>
+      </fields>
+      <libsource lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue" description=""/>
+      <property name="MFPN" value="CW0805-12"/>
+      <property name="UST_ID" value="5c70984412875079b91f8807"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cf09808</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL" description=""/>
+      <property name="UST_ID" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a4f402d-efc4-45ef-ad9e-e14beb9568c8</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL" description=""/>
+      <property name="UST_ID" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f7735f3-c3d3-46c6-8195-a66e7a396814</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL" description=""/>
+      <property name="UST_ID" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afd2459c-e934-4f7c-abd1-9a1b0bc6327a</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL" description=""/>
+      <property name="UST_ID" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffd42c50-8aaf-497b-894a-f2e258022876</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="FMC2DIFF-rescue" part="SATA7-67491-1030-konektory">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SATA7-67491-1030-konektory</field>
+        <field name="Footprint">MOLEX_67491-1030</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="4" type="passive"/>
+        <pin num="9" name="7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE-MLAB_MECHANICAL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small-device-QFHMIX01B-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="QFHMIX01C-rescue" part="L-device-QFHMIX01B-rescue">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L-device-QFHMIX01B-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="2rd_order_in_N">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="2" name="2rd_order_in_P">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="3" name="2rd_order_out_N">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="4" name="2rd_order_out_P">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="5" name="3rd_order_in_N">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="6" name="3rd_order_in_P">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="3rd_order_out_N">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="8" name="3rd_order_out_P">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="4" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="7" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="4" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="7" pintype="passive"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="L10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="L11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="L11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="L12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="L10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L16" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="L14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="L13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L18" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="L15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="L16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="L18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="L19" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>

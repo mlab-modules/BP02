@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/github/workspace/hw/sch_pcb/BP02A.kicad_sch</source>
-    <date>Thu Aug 11 09:52:05 2022</date>
-    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <source>/github/workspace/hw/sch_pcb/BP02.kicad_sch</source>
+    <date>Wed Jul  5 12:38:30 2023</date>
+    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Universal symmetric RF filter </title>
         <company/>
         <rev/>
         <date/>
-        <source>BP02A.kicad_sch</source>
+        <source>BP02.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -33,7 +33,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf094e9</tstamps>
     </comp>
@@ -46,7 +46,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf094f6</tstamps>
     </comp>
@@ -59,7 +59,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d319877</tstamps>
     </comp>
@@ -72,7 +72,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d319f0c</tstamps>
     </comp>
@@ -85,7 +85,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b33"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf09531</tstamps>
     </comp>
@@ -98,7 +98,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b37"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d318b67</tstamps>
     </comp>
@@ -111,7 +111,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b33"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf094fc</tstamps>
     </comp>
@@ -124,7 +124,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5dad549f128750448eca1926"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d319178</tstamps>
     </comp>
@@ -137,7 +137,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b33"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf09515</tstamps>
     </comp>
@@ -150,7 +150,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf09833</tstamps>
     </comp>
@@ -163,7 +163,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf09839</tstamps>
     </comp>
@@ -176,7 +176,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf09502</tstamps>
     </comp>
@@ -189,7 +189,7 @@
       <libsource lib="QFHMIX01C-rescue" part="C_Small-device-QFHMIX01B-rescue" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8659bea4-e910-4440-8077-d414946f93e2</tstamps>
     </comp>
@@ -202,7 +202,7 @@
       <libsource lib="FMC2DIFF-rescue" part="SATA7-67491-1030-konektory" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8a7b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>257817ba-0181-450f-b9ed-4b60c4894377</tstamps>
     </comp>
@@ -215,7 +215,7 @@
       <libsource lib="FMC2DIFF-rescue" part="SATA7-67491-1030-konektory" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8a7b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>03fed3f1-39a4-4f3d-8587-2406e87dc752</tstamps>
     </comp>
@@ -230,7 +230,7 @@
       <property name="MFPN" value="CW0805-12"/>
       <property name="UST_ID" value="5c70984412875079b91f8807"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf097f0</tstamps>
     </comp>
@@ -245,7 +245,7 @@
       <property name="MFPN" value="CW0805-12"/>
       <property name="UST_ID" value="5c70984412875079b91f8807"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf097f8</tstamps>
     </comp>
@@ -260,7 +260,7 @@
       <property name="MFPN" value="0805AS-027J-08"/>
       <property name="UST_ID" value="60be80ed1287500165e6c3bb"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a20bc519-649a-43f3-8b4b-3fe410d13d16</tstamps>
     </comp>
@@ -275,7 +275,7 @@
       <property name="MFPN" value="0805AS-027J-08"/>
       <property name="UST_ID" value="60be80ed1287500165e6c3bb"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f3bc94a3-ece4-4f14-9ed1-81761a651a3a</tstamps>
     </comp>
@@ -290,7 +290,7 @@
       <property name="MFPN" value="CW0805-10"/>
       <property name="UST_ID" value="60be72061287500165e6c35e"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf09538</tstamps>
     </comp>
@@ -304,7 +304,7 @@
       <property name="MFPN" value=""/>
       <property name="UST_ID" value="5c70984412875079b91f8803"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d31848b</tstamps>
     </comp>
@@ -319,7 +319,7 @@
       <property name="MFPN" value="CW0805-82"/>
       <property name="UST_ID" value="60be7e351287500165e6c39b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f57070e4-dbd7-483f-a1a6-e0709c6f2f83</tstamps>
     </comp>
@@ -334,7 +334,7 @@
       <property name="MFPN" value="CW0805-82"/>
       <property name="UST_ID" value="60be7e351287500165e6c39b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f347b272-df40-4e6b-87e4-18eb7179220f</tstamps>
     </comp>
@@ -349,7 +349,7 @@
       <property name="MFPN" value=" CW0805-39"/>
       <property name="UST_ID" value="5c70984412875079b91f8809"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2e560087-3bde-4623-b836-52049aa70f5a</tstamps>
     </comp>
@@ -364,7 +364,7 @@
       <property name="MFPN" value=" CW0805-39"/>
       <property name="UST_ID" value="5c70984412875079b91f8809"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>30c4146a-1f80-410a-b915-9f0bacc2dc8d</tstamps>
     </comp>
@@ -379,7 +379,7 @@
       <property name="MFPN" value="CW0805-10"/>
       <property name="UST_ID" value="60be72061287500165e6c35e"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf094f0</tstamps>
     </comp>
@@ -393,7 +393,7 @@
       <property name="MFPN" value=""/>
       <property name="UST_ID" value="60d330e0128750016518ca90"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005d317c72</tstamps>
     </comp>
@@ -408,7 +408,7 @@
       <property name="MFPN" value="CW0805-82"/>
       <property name="UST_ID" value="60be7e351287500165e6c39b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>eaa7f6ad-066e-4493-8d08-8e94b54020c5</tstamps>
     </comp>
@@ -423,7 +423,7 @@
       <property name="MFPN" value="CW0805-82"/>
       <property name="UST_ID" value="60be7e351287500165e6c39b"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4967dffd-c852-4a0b-9fa1-e4b3d687b896</tstamps>
     </comp>
@@ -438,7 +438,7 @@
       <property name="MFPN" value="CW0805-18"/>
       <property name="UST_ID" value="5c70984412875079b91f8806"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1b676332-255f-4709-a128-087438df37dc</tstamps>
     </comp>
@@ -453,7 +453,7 @@
       <property name="MFPN" value="CW0805-18"/>
       <property name="UST_ID" value="5c70984412875079b91f8806"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b5842de0-c92b-42c4-8242-6f761b5564ad</tstamps>
     </comp>
@@ -468,7 +468,7 @@
       <property name="MFPN" value="CW0805-10"/>
       <property name="UST_ID" value="60be72061287500165e6c35e"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf0950f</tstamps>
     </comp>
@@ -483,7 +483,7 @@
       <property name="MFPN" value="CW0805-12"/>
       <property name="UST_ID" value="5c70984412875079b91f8807"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf09800</tstamps>
     </comp>
@@ -498,7 +498,7 @@
       <property name="MFPN" value="CW0805-12"/>
       <property name="UST_ID" value="5c70984412875079b91f8807"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cf09808</tstamps>
     </comp>
@@ -508,7 +508,7 @@
       <libsource lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL" description=""/>
       <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9a4f402d-efc4-45ef-ad9e-e14beb9568c8</tstamps>
     </comp>
@@ -518,7 +518,7 @@
       <libsource lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL" description=""/>
       <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9f7735f3-c3d3-46c6-8195-a66e7a396814</tstamps>
     </comp>
@@ -528,7 +528,7 @@
       <libsource lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL" description=""/>
       <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>afd2459c-e934-4f7c-abd1-9a1b0bc6327a</tstamps>
     </comp>
@@ -538,7 +538,7 @@
       <libsource lib="ISM02A-rescue" part="HOLE-MLAB_MECHANICAL" description=""/>
       <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BP02A.kicad_sch"/>
+      <property name="Sheetfile" value="BP02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ffd42c50-8aaf-497b-894a-f2e258022876</tstamps>
     </comp>

@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.4-6f826c9f35~116~ubuntu20.04.1"
+      "Version": "6.0.11+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2022-08-11T09:53:35+00:00"
+    "CreationDate": "2023-07-05T12:36:45+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "BP02A",
-      "GUID": "42503032-412e-46b6-9963-61645f706362",
+      "Name": "BP02",
+      "GUID": "42503032-2e6b-4696-9361-645f70636258",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "BP02A-Edge_Cuts.gbr",
+      "Path": "BP02-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "BP02A-F_Cu.gbr",
+      "Path": "BP02-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "BP02A-B_Cu.gbr",
+      "Path": "BP02-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "BP02A-F_Mask.gbr",
+      "Path": "BP02-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "BP02A-B_Mask.gbr",
+      "Path": "BP02-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "BP02A-F_Silkscreen.gbr",
+      "Path": "BP02-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "BP02A-B_Silkscreen.gbr",
+      "Path": "BP02-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "BP02A-F_Paste.gbr",
+      "Path": "BP02-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "BP02A-B_Paste.gbr",
+      "Path": "BP02-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     }
