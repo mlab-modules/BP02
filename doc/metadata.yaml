@@ -5,7 +5,7 @@ github_branches:
 github_repo: BP02
 github_url: https://github.com/mlab-modules/BP02
 homepage: false
-image: doc/src/img/single_filter_measurement.jpg
+image_title: doc/gen/img/BP02-top.png
 images:
 - doc/src/img/single_filter_measurement.jpg
 - doc/src/img/Series_connection_measurement_setup.jpg
