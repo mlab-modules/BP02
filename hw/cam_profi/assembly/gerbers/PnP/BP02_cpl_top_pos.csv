@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","SATA7-67491-1030","SATA-7_THT_VERT_2",133.9230,-88.9240,90.0000,top
+"J2","SATA7-67491-1030","SATA-7_THT_VERT_2",177.8980,-88.9240,90.0000,top
+"M1","HOLE","MountingHole_3mm",129.1540,-77.3940,0.0000,top
+"M2","HOLE","MountingHole_3mm",179.9540,-77.3940,0.0000,top
+"M3","HOLE","MountingHole_3mm",179.9540,-107.8740,0.0000,top
+"M4","HOLE","MountingHole_3mm",129.1540,-107.8740,0.0000,top
