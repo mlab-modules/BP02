@@ -24,11 +24,11 @@ images:
 - doc/gen/BP02-schematic.svg
 - doc/gen/img/BP02-top.svg
 - doc/gen/img/BP02-bottom.svg
-- hw/cam_profi/docs/BP02A-assembly_page_02.svg
-- hw/cam_profi/docs/BP02A-assembly_page_01.svg
+- hw/cam_profi/assembly/BP02-assembly_page_02.svg
+- hw/cam_profi/assembly/BP02-assembly_page_01.svg
 issues: 0
 mark: 50
-mod_ibom: hw/cam_profi/ibom/BP02-ibom.html
+mod_ibom: hw/cam_profi/BP02-ibom.html
 mod_scheme: doc/gen/BP02-schematic.pdf
 tags:
 - mlab
@@ -39,4 +39,4 @@ tags:
 - mlab-kicad
 - pcb
 title: BP02
-updated: '2023-07-21T08:51:39.418470+00:00'
+updated: '2023-07-21T08:54:15.588913+00:00'
