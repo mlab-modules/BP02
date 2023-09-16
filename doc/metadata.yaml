@@ -30,7 +30,7 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/BP02-ibom.html
 mod_scheme: doc/gen/BP02-schematic.pdf
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
