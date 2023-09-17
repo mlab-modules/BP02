@@ -2,6 +2,7 @@ description: Symmetrical RF filter module with SATA connector input/output
 github_branch: BP02A
 github_branches:
 - BP02A
+github_description: Symmetrical RF filter module with SATA connector input/output
 github_repo: BP02
 github_url: https://github.com/mlab-modules/BP02
 homepage: false
@@ -40,4 +41,4 @@ tags:
 - mlab-kicad
 - pcb
 title: BP02
-updated: '2023-09-16T21:29:52.687177+00:00'
+updated: '2023-09-17T11:36:57.670195+00:00'
